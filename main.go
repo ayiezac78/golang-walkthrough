@@ -6,7 +6,7 @@ import (
 	// "github.com/ayiezac78/golang-walkthrough/helloworld"
 	// "github.com/ayiezac78/golang-walkthrough/integers"
 	// "github.com/ayiezac78/golang-walkthrough/iteration"
-	"github.com/ayiezac78/golang-walkthrough/sum"
+	"walkthrough/sum"
 )
 
 func main() {
